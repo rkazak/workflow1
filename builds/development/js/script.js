@@ -82,7 +82,7 @@ $ = require('jquery');
     item: item
   });
   return fill;
-})('The most creative minds in Art');
+})('The most creative minds in the Art');
 
 $(function() {
   var Mustache = require('mustache');
